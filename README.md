@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hadi Naqvi
+## Hi there 👋 I'm Hadi Naqvi
 
 ## 🧑‍💻 About Me
 - 🙋‍♂️ I’m a third-year Computer Science student at the University of Toronto with an interest in Full-stack development.
